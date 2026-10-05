@@ -1,0 +1,14 @@
+/Users/sedatcoban/Desktop/K/bin/Debug/net10.0/K
+/Users/sedatcoban/Desktop/K/bin/Debug/net10.0/K.deps.json
+/Users/sedatcoban/Desktop/K/bin/Debug/net10.0/K.runtimeconfig.json
+/Users/sedatcoban/Desktop/K/bin/Debug/net10.0/K.dll
+/Users/sedatcoban/Desktop/K/bin/Debug/net10.0/K.pdb
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/K.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/K.AssemblyInfoInputs.cache
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/K.AssemblyInfo.cs
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/K.csproj.CoreCompileInputs.cache
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/K.dll
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/refint/K.dll
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/K.pdb
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/K.genruntimeconfig.cache
+/Users/sedatcoban/Desktop/K/obj/Debug/net10.0/ref/K.dll
